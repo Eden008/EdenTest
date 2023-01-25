@@ -10,7 +10,6 @@ cfscrape
 cloudscraper
 dnspython
 feedparser
-flask
 gc-python-utils
 cinemagoer
 google-api-python-client
